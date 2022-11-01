@@ -1,4 +1,4 @@
 Справочник
 Book
 Dojdiks
-palka
+p0lka
